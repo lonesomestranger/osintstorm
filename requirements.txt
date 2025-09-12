@@ -1,0 +1,12 @@
+pydantic
+aiohttp
+yarl
+lxml
+aiogram
+python-dotenv
+maigret
+holehe
+selenium
+webdriver-manager
+beautifulsoup4
+requests
