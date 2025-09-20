@@ -133,6 +133,10 @@ def get_telegram_services_keyboard() -> InlineKeyboardMarkup:
         InlineKeyboardButton(
             text="Lyzem (поисковик Telegram)", url="https://lyzem.com/"
         ),
+        InlineKeyboardButton(
+            text="TeleLog (@ujuststatbot)", url="https://telelog.link/"
+        ),
+        width=2,
     )
     return keyboard.as_markup()
 
