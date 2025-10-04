@@ -20,6 +20,11 @@
 
 ---
 
+# ⛰ Codeberg
+Actual link is [here](https://codeberg.org/lonesomestranger/osintstorm).
+
+---
+
 # OSINT-Storm Telegram Bot
 
 OSINT-Storm is a powerful Telegram bot designed for Open Source Intelligence (OSINT) investigations. It integrates various services and tools to help you gather information on usernames, emails, IP addresses, VK profiles, and more, directly from your Telegram client.
